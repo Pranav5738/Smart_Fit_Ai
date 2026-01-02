@@ -1,0 +1,7 @@
+{
+  "name": "SmartFit AI",
+  "description": "An AI-powered web application that predicts your perfect clothing fit using your device's camera. It supports multiple users, tracks your scan history, and offers different subscription plans.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
